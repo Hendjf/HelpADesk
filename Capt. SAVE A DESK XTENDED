@@ -1,0 +1,304 @@
+GLOBAL SERVICE DESK Personalized Interaction Script with Core Soft Skills
+
+
+Core Templates and Examples
+
+Table of Contents
+
+1. Global Service Desk Personalized Interaction Script with Core Soft Skills
+
+   * Introduction
+
+     1. Warm Welcome with Active Listening
+     2. Clarify and Tailor Communication Style
+     3. Build Trust and Set Expectations
+2. Authentication
+
+   1. Access Resources for Authentication
+   2. Authenticate the Client
+   3. Acknowledge Completion of Authentication
+3. Understanding the Client’s Issue
+
+   1. Use Open-Ended Questions and Active Listening
+   2. Show Empathy and Stay Solution-Focused
+4. Resolution Process
+
+   1. Clear and Concise Communication
+   2. Step-by-Step Troubleshooting with Time Awareness
+   3. Set Expectations and Provide Updates
+   4. Involve Supervisor if Needed
+5. Closure
+
+   1. Confirm Resolution or Next Steps
+   2. Provide Ticket Number and Clarity
+   3. Summarize Key Points
+   4. End with Empathy and Positivity
+6. Soft Skills in Practice
+7. Problem Statement
+8. Proposed Next Steps
+9. Troubleshooting Steps
+10. Resolution and Verification
+11. Preventive Measures
+12. Resolution Confirmation
+13. Next Steps for the Customer
+14. Resolution Template
+15. Additional Resources
+16. Feedback
+17. Problem Statement – Example: MFA (REDACTED) Unknown PIN
+18. Troubleshooting Steps – Example: MFA (REDACTED) Unknown PIN
+19. Resolution Template – Example: MFA (REDACTED) Unknown PIN
+
+---
+
+## Global Service Desk Personalized Interaction Script with Core Soft Skills
+
+### Introduction
+
+**1. Warm Welcome with Active Listening**
+
+> “Hi, thank you for contacting the Global Service Desk. My name is Jalena Henderson, and I’ll be assisting you today. May I have your name, please?”
+> *Pause to actively listen.*
+> “\<Client’s Name>, it’s great to speak with you. Can you tell me how I can assist you today?”
+
+**2. Clarify and Tailor Communication Style**
+
+* **Direct clients:** “Let’s dive right into the details to get this resolved for you.”
+* **Conversational clients:** “Thanks for sharing that. Let’s go through this step-by-step together.”
+
+**3. Build Trust and Set Expectations**
+
+> “I’ll do everything I can to resolve this for you. If I need to involve another team, I’ll let you know right away and keep you updated.”
+
+---
+
+## Authentication
+
+**1. Access Resources for Authentication**
+Depending on the support channel:
+
+* **Phone Support:**
+  • Access the Call Center Dashboard.
+  • Select the “Go” option and initiate the Sync Call feature.
+  • Navigate to the Devices tab and expand the menu under the specific device type or name.
+
+* **Chat Support:**
+  • Access the customer’s account using their Standard ID in Amelia.
+  • Open the Tech Support Portal.
+  • Navigate to the Devices tab and expand the menu under the specific device type or name.
+
+**2. Authenticate the Client**
+
+> “Thank you for your patience while I complete the authentication process. I’m now verifying the information associated with your account.”
+
+**3. Acknowledge Completion of Authentication**
+
+> “Thank you for fully authenticating. Your account is now verified, and we can proceed with assisting you.”
+
+---
+
+## Understanding the Client’s Issue
+
+**1. Use Open-Ended Questions and Active Listening**
+
+> “Can you describe what’s happening in as much detail as possible? I want to make sure I fully understand the issue before we proceed.”
+> *Repeat key points:* “So, it sounds like \[summarize the issue]. Is that correct?”
+
+**2. Show Empathy and Stay Solution-Focused**
+
+> “I’m really sorry this has been an issue for you, \<Client’s Name>. I know how important \[specific system or technology] is to your work, and I’ll do everything I can to fix this quickly.”
+
+---
+
+## Resolution Process
+
+**1. Clear and Concise Communication**
+
+> “Here’s what we’ll do: I’ll guide you through some troubleshooting steps. If that doesn’t work, I’ll escalate this to the appropriate team and provide you with a ticket number for tracking.”
+
+**2. Step-by-Step Troubleshooting with Time Awareness**
+
+> “Let’s try the first step: \[explain clearly and briefly]. Does that resolve the issue?”
+> If not: “Thank you for sticking with me. Let’s try one more thing before escalating.”
+
+**3. Set Expectations and Provide Updates**
+
+> “Since this requires further investigation, I’ll escalate it to our specialized team. Here’s what to expect next: \[explain the process and timeline].”
+
+**4. Involve Supervisor if Needed**
+
+> “To ensure we’re covering all possibilities, I’m going to consult with a supervisor. Please hold for just a moment. Thank you for your understanding.”
+
+---
+
+## Closure
+
+**1. Confirm Resolution or Next Steps**
+
+* **If resolved:** “I’m so glad we could get this sorted out for you, \<Client’s Name>. Is there anything else I can assist you with today?”
+* **If unresolved:** “I’ve escalated this issue for you and documented all the details under ticket number \[provide ticket number]. You can expect to hear back within \[timeframe].”
+
+**2. Provide Ticket Number and Clarity**
+
+> “Your ticket number is \[repeat ticket number]. If you need assistance locating updates, feel free to contact us anytime.”
+
+**3. Summarize Key Points**
+
+> “Just to summarize, we worked on \[briefly recap the issue and steps taken]. Your ticket has been logged, and the escalation process is underway.”
+
+**4. End with Empathy and Positivity**
+
+> “\<Client’s Name>, I truly appreciate your patience and understanding today. Thank you for giving us the opportunity to assist you. Have a wonderful day!”
+
+---
+
+## Soft Skills in Practice
+
+**Core Skills Addressed:**
+
+* Active Listening
+* Clear and Concise Communication
+* Time Awareness
+* Adapting to Communication Styles
+* Problem Solving
+* Handling Language Barriers
+
+**Suggestions for Success Incorporated:**
+
+* Practice empathy (“I know this is frustrating, and I’m here to help.”)
+* Maintain a calm, confident tone throughout the interaction.
+* Role-play the script for continuous improvement.
+* Engage in reflection after each interaction.
+
+---
+
+## Problem Statement
+
+1. **Customer’s Work Environment:** \[select one: remotely / in office]
+2. **Issue Scope:** \[select one: isolated / affecting multiple users]
+3. **Reported Concern:** \[insert product name] disrupting \[workflow/process name]
+4. **Detailed Description:**
+
+   * Launch path: \[Start Menu/Task Bar/System Tray/Desktop Shortcut/Search]
+   * Observed behavior: makes noise / freezes / responds slowly / does not open / blank screen / error message \[insert error]
+   * Bypass status: able / unable
+5. **Timeline:**
+
+   * First noticed: \[insert date]
+   * Reported: \[insert date/time]
+   * Last successful use: \[insert date]
+6. **Additional Context:**
+
+   * First-time user? yes / no
+   * Recent role change? yes / no
+
+---
+
+## Proposed Next Steps
+
+* **Verify the Issue:** Confirm \[OPCAT] cannot be bypassed; check for recent changes.
+* **Troubleshoot the Problem:** Attempt manual resolution steps; verify status in system; review anomalies.
+* **Escalation Plan:** If unresolved, escalate to \[escalation group] for manual intervention.
+
+---
+
+## Troubleshooting Steps
+
+**Overview:** Outline authentication, investigation, resolution actions, and verification.
+
+**Steps Taken:**
+
+1. Authentication (Phone or Chat support steps above)
+2. Remote Connection: Launch support tool and confirm successful connection.
+3. Issue Reproduction: Reproduce behavior using standard launch path.
+4. Resolution Implementation: Apply fix via support tools.
+
+---
+
+## Resolution and Verification
+
+**Resolution Steps:** Deployed fix using \[support tool]; followed standard resolution process.
+
+**Verification:** Confirmed the root cause and that the issue is resolved.
+
+---
+
+## Preventive Measures
+
+* Implement process improvements to prevent recurrence.
+* Recommend enabling/disabling relevant functions as safeguards.
+
+---
+
+## Resolution Confirmation
+
+* **Confirmed:** Customer verified system stability and proper function.
+* **Not Confirmed:** Issue persists; further escalation required.
+
+---
+
+## Next Steps for the Customer
+
+1. Monitor system for updates related to \[OPCAT].
+2. Reference internal knowledge base for new information.
+3. Provide screenshots if reopening the ticket is necessary.
+
+---
+
+## Resolution Template
+
+* **Summary:** Agent researched and resolved \[OPCAT] via \[support tool].
+* **Research:** Accessed internal knowledge base sections.
+* **Deployment:** Applied fix using \[support tool].
+* **Verification:** Confirmed resolution.
+* **Preventive Measures:** As above.
+* **Next Steps:** As listed.
+
+---
+
+## Additional Resources
+
+* Support hotline: 1-800-SUPPORT
+
+---
+
+## Feedback
+
+> “We appreciate your feedback to help us improve our service quality.”
+
+---
+
+## Problem Statement – Example: MFA (REDACTED) Unknown PIN
+
+1. **Work Environment:** remote
+2. **Scope:** isolated (one user)
+3. **Concern:** (REDACTED) Authenticator prompting unknown 6-digit PIN
+4. **Description:** Launch app; prompted for unknown PIN; unable to proceed.
+5. **Timeline:** First noticed \[date/time]; reported \[date/time].
+6. **Additional Context:** Not first-time user; no recent role change.
+
+---
+
+## Proposed Next Steps – Example: MFA (REDACTED) Unknown PIN
+
+* **Verify:** Confirm prompt is unexpected.
+* **Troubleshoot:** Reset or reissue token via MFA portal.
+* **Escalation:** Escalate to MFA system administrator if needed.
+
+---
+
+## Troubleshooting Steps – Example: MFA (REDACTED) Unknown PIN
+
+**Overview:** Authentication → Investigation → Resolution → Verification.
+
+**Steps Taken:** Authentication, remote connection, reproduction, resolution.
+
+---
+
+## Resolution Template – Example: MFA (REDACTED) Unknown PIN
+
+* **Summary:** Manual token request deployed; root cause addressed.
+* **Research:** Reviewed internal MFA guidance.
+* **Deployment:** Requested new token via MFA portal.
+* **Verification:** Customer confirmed PIN reset success.
+* **Preventive Measures:** Enable biometrics before token changes.
+* **Next Steps:** Monitor MFA guidance and collaborate if issues recur.
