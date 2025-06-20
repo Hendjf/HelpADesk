@@ -1,0 +1,327 @@
+Below is the same Global Service Desk script and templates, with all proprietary systems, URLs, product names, and other property-specific details redacted or replaced with generic placeholders.
+
+---
+
+**GLOBAL SERVICE DESK**
+Core Templates and Examples
+
+ 
+**Table of Contents**
+
+1. Global Service Desk Personalized Interaction Script with Core Soft Skills
+
+   * Introduction
+   * Warm Welcome with Active Listening
+   * Clarify and Tailor Communication Style
+   * Build Trust and Set Expectations
+2. Authentication
+
+   * Access Resources for Authentication
+   * Authenticate the Client
+   * Acknowledge Completion of Authentication
+3. Understanding the Client's Issue
+
+   * Use Open-Ended Questions and Active Listening
+   * Show Empathy and Stay Solution-Focused
+4. Resolution Process
+
+   * Clear and Concise Communication
+   * Step-by-Step Troubleshooting with Time Awareness
+   * Set Expectations and Provide Updates
+   * Involve Supervisor if Needed
+5. Closure
+
+   * Confirm Resolution or Next Steps
+   * Provide Ticket Number and Clarity
+   * Summarize Key Points
+   * End with Empathy and Positivity
+6. Soft Skills in Practice
+
+   * Core Skills Addressed
+   * Suggestions for Success Incorporated
+7. Problem Statement
+8. Proposed Next Steps
+9. Troubleshooting Steps
+10. Resolution and Verification
+11. Preventive Measures
+12. Resolution Confirmation
+13. Next Steps For The Customer
+14. Resolution Template
+15. Additional Resources
+16. Feedback
+17. Problem Statement – Example: MFA Unknown PIN
+18. Troubleshooting Steps – Example: MFA Unknown PIN
+19. Resolution Template – Example: MFA Unknown PIN
+
+---
+
+## Global Service Desk Personalized Interaction Script with Core Soft Skills
+
+### Introduction
+
+#### 1. Warm Welcome with Active Listening
+
+> “Hi, thank you for contacting the Global Service Desk. My name is \[Agent Name], and I’ll be assisting you today. May I have your name, please?”
+> *Pause to actively listen.*
+> “\[Client Name], it’s great to speak with you. Can you tell me how I can assist you today?”
+
+#### 2. Clarify and Tailor Communication Style
+
+* **Direct clients:** “Let’s dive right into the details to get this resolved.”
+* **Conversational clients:** “Thanks for sharing that. Let’s go through this step-by-step together.”
+
+#### 3. Build Trust and Set Expectations
+
+> “I’ll do everything I can to resolve this for you. If I need to involve another team, I’ll let you know right away and keep you updated.”
+
+---
+
+## Authentication
+
+#### 1. Access Resources for Authentication
+
+Depending on the support channel:
+
+* **Phone Support:**
+
+  1. Open the authentication dashboard.
+  2. Initiate the call-sync feature.
+  3. Locate the customer’s device record.
+
+* **Chat Support:**
+
+  1. Open the support portal.
+  2. Search by customer identifier.
+  3. Locate the customer’s device record.
+
+*(All URLs and system names have been redacted.)*
+
+#### 2. Authenticate the Client
+
+> “Thank you for your patience while I verify your account details.”
+
+#### 3. Acknowledge Completion of Authentication
+
+> “Thank you. Your account is now verified, and we can proceed.”
+
+---
+
+## Understanding the Client’s Issue
+
+#### 1. Use Open-Ended Questions and Active Listening
+
+> “Can you describe what’s happening in as much detail as possible?”
+> *Summarize back:* “So, it sounds like \[summary]. Is that correct?”
+
+#### 2. Show Empathy and Stay Solution-Focused
+
+> “I’m sorry you’re experiencing this, \[Client Name]. Let’s work together to get it fixed.”
+
+---
+
+## Resolution Process
+
+#### 1. Clear and Concise Communication
+
+> “Here’s what we’ll do: I’ll guide you through some steps, and if needed I’ll escalate and give you a ticket number.”
+
+#### 2. Step-by-Step Troubleshooting with Time Awareness
+
+> “Let’s try step one: \[generic instruction]. Did that resolve it?”
+> If not: “Thank you for your patience. Let’s move to the next step.”
+
+#### 3. Set Expectations and Provide Updates
+
+> “This requires further investigation, so I’ll escalate it. You’ll hear back within \[timeframe].”
+
+#### 4. Involve Supervisor if Needed
+
+> “I’m going to consult with my supervisor. Please hold for a moment—thank you.”
+
+---
+
+## Closure
+
+#### 1. Confirm Resolution or Next Steps
+
+* **If resolved:** “Great, is there anything else I can help you with today?”
+* **If unresolved:** “I’ve escalated this under ticket #\[ID]. Expect updates within \[timeframe].”
+
+#### 2. Provide Ticket Number and Clarity
+
+> “Your ticket number is #\[ID]. Feel free to reference this for any follow-ups.”
+
+#### 3. Summarize Key Points
+
+> “To recap: we did \[steps], and you’ll receive updates on \[next steps].”
+
+#### 4. End with Empathy and Positivity
+
+> “Thank you for your patience and for giving us the opportunity to assist you. Have a wonderful day!”
+
+---
+
+## Soft Skills in Practice
+
+**Core Skills Addressed:**
+
+* Active Listening
+* Clear Communication
+* Time Awareness
+* Adaptability
+* Problem Solving
+
+**Suggestions for Success:**
+
+* Practice empathy
+* Maintain a calm, confident tone
+* Role-play the script for continuous improvement
+
+---
+
+## Problem Statement
+
+1. **Customer’s Work Environment:** \[Remote / In-office]
+2. **Issue Scope:** \[Isolated / Multiple users]
+3. **Reported Concern:** Issue with \[Application] disrupting \[Workflow].
+4. **Detailed Description:**
+
+   * Launch pathway: \[Start Menu / Task Bar / etc.]
+   * Observed behavior: freeze / error message / blank screen
+   * Bypass status: able / unable
+5. **Timeline:**
+
+   * First noticed: \[Date]
+   * Reported: \[Date/Time]
+   * Last successful use: \[Date]
+6. **Additional Context:**
+
+   * New user? yes / no
+   * Recent role change? yes / no
+
+---
+
+## Proposed Next Steps
+
+* **Verify the Issue:** Confirm the behavior is reproducible.
+* **Troubleshoot:** Attempt manual resolution steps.
+* **Escalation Plan:** If unresolved, escalate to \[Escalation Group].
+
+---
+
+## Troubleshooting Steps
+
+**Overview:**
+Document authentication, investigation, resolution actions, and verification.
+
+**Steps Taken:**
+
+1. Authentication
+2. Remote connection setup
+3. Issue reproduction
+4. Resolution implementation
+
+*(All proprietary tool names and URLs redacted.)*
+
+---
+
+## Resolution and Verification
+
+**Resolution Steps:**
+
+* Used generic support tools to deploy fix.
+* Followed standard process to apply changes.
+
+**Verification:**
+
+* Confirmed that the issue was resolved at the root cause level.
+
+---
+
+## Preventive Measures
+
+* Implement process improvements to prevent recurrence.
+* Recommend enabling relevant features as a safeguard.
+
+---
+
+## Resolution Confirmation
+
+* **Confirmed:** Customer verifies system is stable.
+* **Not Confirmed:** Further escalation required.
+
+---
+
+## Next Steps For The Customer
+
+1. Monitor system for stability.
+2. Reference internal knowledgebase for updates.
+3. Provide screenshots if reopening the ticket.
+
+---
+
+## Resolution Template
+
+* **Summary:** Agent researched and resolved root cause.
+* **Research:** Accessed \[knowledge base section].
+* **Deployment:** Applied fix via \[generic tool].
+* **Verification:** Confirmed resolution.
+* **Preventive Measures:** Outlined above.
+* **Next Steps:** As listed.
+
+---
+
+## Additional Resources
+
+* Internal support guides
+* Contact support hotline
+
+---
+
+## Feedback
+
+> “We appreciate your feedback to help us improve service quality.”
+
+---
+
+## Problem Statement – Example: MFA Unknown PIN
+
+1. **Work Environment:** Remote
+2. **Scope:** Isolated (one user)
+3. **Concern:** Authenticator app prompting unknown PIN
+4. **Description:**
+
+   * Launch app from home screen; prompted for 6-digit PIN; unable to proceed
+5. **Timeline:** First noticed \[Date/Time], reported \[Date/Time]
+6. **Additional Context:** Not a first-time user; no recent role change
+
+---
+
+### Proposed Next Steps
+
+* **Verify:** Confirm PIN prompt is unexpected.
+* **Troubleshoot:** Reset or reissue token via \[portal].
+* **Escalation:** Escalate to MFA administrator if unresolved.
+
+---
+
+### Troubleshooting Steps – Example: MFA Unknown PIN
+
+**Overview:** Authentication → Investigation → Resolution → Verification.
+
+*(Tool names and URLs redacted.)*
+
+---
+
+## Resolution Template – Example: MFA Unknown PIN
+
+* **Summary:** Manual token request deployed, root cause addressed.
+* **Research:** Accessed internal MFA guidance.
+* **Deployment:** Requested new token via \[portal].
+* **Verification:** Customer confirmed successful PIN reset.
+* **Preventive Measures:** Enable biometric authentication.
+* **Next Steps:** Monitor MFA guidance and collaborate if issues recur.
+
+---
+
+All proprietary names, URLs, product-specific references, and internal identifiers have been replaced with generic placeholders or removed.
