@@ -1,0 +1,44 @@
+Add-Type -AssemblyName System.Windows.Forms
+Add-Type -AssemblyName System.Drawing
+
+# Create form
+$form = New-Object System.Windows.Forms.Form
+$form.Text = 'Help A Desk - Document Viewer'
+$form.Size = New-Object System.Drawing.Size(800,600)
+$form.StartPosition = 'CenterScreen'
+
+# ListBox for document list
+$listBox = New-Object System.Windows.Forms.ListBox
+$listBox.Location = New-Object System.Drawing.Point(10,10)
+$listBox.Size = New-Object System.Drawing.Size(250,540)
+$form.Controls.Add($listBox)
+
+# TextBox for document content
+$textBox = New-Object System.Windows.Forms.TextBox
+$textBox.Location = New-Object System.Drawing.Point(270,10)
+$textBox.Size = New-Object System.Drawing.Size(500,540)
+$textBox.Multiline = $true
+$textBox.ScrollBars = 'Vertical'
+$textBox.Font = New-Object System.Drawing.Font('Consolas',10)
+$form.Controls.Add($textBox)
+
+# Load document files (e.g., .md, .txt)
+$docs = Get-ChildItem -Path (Get-Location) -Include *.md,*.txt -File
+foreach ($doc in $docs) { $listBox.Items.Add($doc.Name) }
+
+# Event: selection changed -> load content
+$listBox.Add_SelectedIndexChanged({
+    $selected = $listBox.SelectedItem
+    if ($selected) {
+        $path = Join-Path (Get-Location) $selected
+        try {
+            $content = Get-Content -Path $path -Raw
+            $textBox.Text = $content
+        } catch {
+            $textBox.Text = "Error loading file: $_"
+        }
+    }
+})
+
+# Show form
+[void]$form.ShowDialog()
