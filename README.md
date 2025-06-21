@@ -1,3 +1,5 @@
+THIS IS BROKEN DO NOT USE
+
 # HelpADesk GUI Viewer
 
 A PowerShell-based GUI application to browse and preview documentation files (`.md` and `.txt`) in the HelpADesk repository.
